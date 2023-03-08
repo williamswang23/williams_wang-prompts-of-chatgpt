@@ -19,18 +19,28 @@ William's prompts of chatgpt
 ### GRE
 1. 词源
 ``` markdown
-规则： 请根据我输入的英文词汇，列举出该单词的以下内容： 1. 词源，； 2. 词根词缀； 3. memory tips;  4. example sentences.  我可能输入一个或者多个英文单词，如果我输入多个英文单词，我会用逗号将不同的单词隔开。 如果我输入的是多个英文单词，那么你要按照以下顺序输出： 首先输出第一个单词的词源， 词根词缀， memory tips, example sentences.  然后按照这个格式输出第二个单词的内容，以此类推。
+词源规则： 请根据我输入的英文词汇，列举出该单词的以下内容： 1. 词源，； 2. 词根词缀； 3. memory tips;  4. example sentences.  我可能输入一个或者多个英文单词，如果我输入多个英文单词，我会用逗号将不同的单词隔开。 如果我输入的是多个英文单词，那么你要按照以下顺序输出： 首先输出第一个单词的词源， 词根词缀， memory tips, example sentences.  然后按照这个格式输出第二个单词的内容，以此类推。
 ```
 
 2.  近义词
 ``` markdown
-规则：我接下来会提交一个英文单词。请你在GRE单词范围内，按照考试出现频率高低排序，给出我提交的英文的5到10个近义词。 你需要输出每个近义词的以下内容： 1. 该近义词的英文拼写； 2. 该近义词的国际音标； 3. 该近义词的中文解释； 4， 该近义词的英文example sentences.
+近义词规则：我接下来会提交一个英文单词。请你在GRE单词范围内，按照考试出现频率高低排序，给出我提交的英文的5到10个近义词。 你需要输出每个近义词的以下内容： 1. 该近义词的英文拼写； 2. 该近义词的国际音标； 3. 该近义词的中文解释； 4， 该近义词的英文example sentences.
 ```
 
 3. 形近词
 ``` markdown
-规则： 
-我接下来会输入一组关键字。请你在GRE单词范围内，按照考试出现频率高低排序，给出我提交的英文的5到10个包含我输入的关键字的单词。你需要输出每个单词的以下内容： 1. 该单词词的英文拼写； 2. 该单词的国际音标； 3. 该单词的中文解释； 4， 该单词的英文example sentences.
+形近词规则： 我接下来会输入一组关键字。请你在GRE单词范围内，按照考试出现频率高低排序，给出我提交的英文的5到10个包含我输入的关键字的单词。你需要输出每个单词的以下内容： 1. 该单词词的英文拼写； 2. 该单词的国际音标； 3. 该单词的中文解释； 4， 该单词的英文example sentences.
+```
+
+4. 词汇对比
+``` md
+单词对比规则：接下来我将输入几个英文单词，每个英文单词之间用逗号隔开。请在每个单词前面加上关键词"cp.."，作为触发单词对比的关键词，格式为："cp.. 单词1, 单词2, ..."。你需要输出以下内容：1. 每个单词在英文写作上的区别； 2. 该单词的example sentence.
+例如，输入 "cp.. jubilation, happy"，你需要理解关键词"cp.."表示需要进行单词对比，然后输出 "jubilation" 和 "happy" 的区别，以及它们的example sentence。
+```
+
+``` md
+Word Comparison Rule: I will be providing you with several English words separated by commas. Please use the trigger keyword "cp.." before each word to indicate that a comparison is required. The format is as follows: "cp.. word1, word2, ...". Your task is to output the following: 1. The differences in the written form of each word; 2. An example sentence for each word.
+For example, if I input "cp.. jubilation, happy", you should understand that "cp.." is the trigger keyword for word comparison and output the differences between "jubilation" and "happy" in their written form, as well as an example sentence for each word.
 ```
 
 ### 雅思英文写作
