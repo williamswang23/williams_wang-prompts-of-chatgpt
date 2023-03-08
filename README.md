@@ -5,7 +5,15 @@ William's prompts of chatgpt
 
 私有补充prompts仓库：
 
-[TOC]
+- [Williams' prompts of chatgpt](#williams-prompts-of-chatgpt)
+  - [英文学习](#英文学习)
+    - [GRE](#gre)
+    - [雅思英文写作](#雅思英文写作)
+    - [口语对话练习](#口语对话练习)
+    - [雅思口语对话练习](#雅思口语对话练习)
+  - [搜索](#搜索)
+    - [一般规则](#一般规则)
+
 ## 英文学习
 
 ### GRE
