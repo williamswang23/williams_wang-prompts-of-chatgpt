@@ -8,14 +8,13 @@ William's prompts of chatgpt
 
 ## 英文学习🇬🇧
 
-### GRE 🧐
+### GRE 🇺🇸🧐🧑‍🎓
 
 #### 词汇
 1. 词源
 ``` markdown
-接下来请按照以下规则完成任务。 
-词源规则： 接下来我将输入一个或者多个英文单词。请根据我输入的英文词汇，列举出该单词的以下内容： 1. 该单词的词源，即该单词来自哪种语言或哪个单词，并解释该单词的含义和词源故事； 2. 该单词的词根和词缀，即该单词由哪些部分组成，每个部分的含义是什么，以及如何帮助您理解该单词的含义； 3. Memory tips，即如何记忆和运用该单词，以及该单词与哪些相关概念或单词有关联;  4. Example sentences，即该单词在句子中的用法和意义.
-如果我输入多个英文单词，我会用逗号将不同的单词隔开。 在这种情况下，你要按照以下顺序输出： 首先输出第一个单词的词源， 词根词缀， memory tips, example sentences.  然后按照这个格式输出第二个单词的内容，以此类推。
+接下来请按照以下规则完成任务。 规则的名字叫做“词源规则”，内容如下。
+词源规则： 在得到你的确认后， 我将输入一个或者多个英文单词。请根据我输入的英文词汇，列举出该单词的以下内容： 1. 该单词的词源，即该单词来自哪种语言或哪个单词，并解释该单词的含义和词源故事； 2. 该单词的词根和词缀，即该单词由哪些部分组成，每个部分的含义是什么，以及如何帮助我理解该单词的含义； 3. Memory tips，即如何记忆和运用该单词，以及该单词与哪些相关概念或单词有关联;  4. Example sentences，即该单词在句子中的用法和意义.
 例如：
 我输入“decadence”
 你应该理解我是要求你输出“decadence”相关的如下信息，并应该按照以下格式输出相关信息：
@@ -26,6 +25,8 @@ Example sentences:
 The city's once-beautiful architecture has fallen into a state of decadence and disrepair.
 Some argue that the widespread use of technology is contributing to a moral decadence in society.
 The artist's work was marked by a sense of decadence and decay, reflecting the decline of the society in which he lived.”
+
+如果我输入多个英文单词，我会用逗号将不同的单词隔开。 在这种情况下，你要按照以下顺序输出： 首先输出第一个单词的词源， 词根词缀， memory tips, example sentences.  然后按照这个格式输出第二个单词的内容，以此类推。
 ```
 
 ```md
@@ -34,7 +35,6 @@ Word origin, which means where the word comes from and the story behind its mean
 Word roots and affixes, which means the parts of the word and their meanings, and how they help you understand the word's meaning.
 Memory tips, which means how to remember and use the word, and what concepts or words it is associated with.
 Example sentences, which means how the word is used in a sentence and its meaning.
-If I provide multiple English words, I will separate them with commas. In this case, you should output the following information in the following order: first output the word origin, word roots and affixes, memory tips, and example sentences for the first word. Then output the same information in the same format for the second word, and so on.
 For example:
 If I input "decadence," I'm asking you to output the following information related to "decadence," and you should output the information in the following format:
 
@@ -45,6 +45,8 @@ Example Sentences:
 The city's once-beautiful architecture has fallen into a state of decadence and disrepair.
 Some argue that the widespread use of technology is contributing to a moral decadence in society.
 The artist's work was marked by a sense of decadence and decay, reflecting the decline of the society in which he lived."
+
+If I provide multiple English words, I will separate them with commas. In this case, you should output the following information in the following order: first output the word origin, word roots and affixes, memory tips, and example sentences for the first word. Then output the same information in the same format for the second word, and so on.
 ```
 
 2.  近义词 @syn..
@@ -206,11 +208,55 @@ todo
 ``` markdown
 接下来请帮我按照以下规则完成任务。规则： 你现在作为一个搜索引擎，根绝我输入的关键词，返回以下内容： 1. 搜索我输入的关键词，并显示与其相关的搜索结果。这些搜索结果可能包括相关网页、新闻文章、图片、视频等； 2.为了帮助我更深入地了解搜索结果，你将尽可能提供对应的参考链接，这些链接可能是指向类似维基百科、学术期刊、博客等可信来源的页面。这些参考链接可能包含更多相关信息、深入的解释、数据支持等。
 ```
+todo
+- [ ] 搜索结果的语言问题
+- [ ] 目前的prompt得到的结果只有链接，需要改进整个逻辑。
+- [ ] 参考链接可能是“编造的”，所以使用chatgpt作为搜索引擎，存疑。
 
-``` markdown
-Rule: As a search engine, based on the keywords you input, I will provide the following contents: 1. Search the keywords you input and display related search results, including relevant web pages, news articles, images, videos, etc. 2. To help you better understand the search results, I will provide corresponding reference links as much as possible, which may point to reliable sources such as Wikipedia, academic journals, blogs, etc. These reference links may contain more related information, in-depth explanations, data support, etc.
-```
+
 
 
 ## 文摘📖
 todo
+
+## ANKI 卡片
+``` md
+请根据我提供的文本，制作一套抽认卡。
+
+在制作抽认卡时，请遵循下述要求：
+- 保持抽认卡的简单、清晰，并集中于最重要的信息。
+- 确保问题是具体的、不含糊的。
+- 使用清晰和简洁的语言。使用简单而直接的语言，使卡片易于阅读和理解。
+- 答案应该只包含一个关键的事实/名称/概念/术语。
+
+制作抽认卡时，让我们一步一步来：
+第一步，使用简单的中文改写内容，同时保留其原来的意思。
+第二步，将内容分成几个小节，每个小节专注于一个要点。
+第三步，利用小节来生成多张抽认卡，对于超过 15 个字的小节，先进行拆分和概括，再制作抽认卡。
+
+文本：
+衰老细胞的特征是细胞内的水分减少，结果使细胞萎缩，体积变小，细胞代谢的速率减慢。细胞内多种酶的活性降低。细胞核的体积增大，核膜内折，染色质收缩、染色加深。细胞膜通透性改变，使物质运输功能降低。
+一套卡片：
+| 问题 | 答案 |
+|---|---|
+|衰老细胞的体积会怎么变化？|变小。|
+|衰老细胞的体积变化的具体表现是什么？|细胞萎缩。|
+|衰老细胞的体积变化原因是什么？|细胞内的水分减少。|
+|衰老细胞内的水分变化对细胞代谢的影响是什么？|细胞代谢的速率减慢。 |
+|衰老细胞内的酶活性如何变化？|活性降低。|
+|衰老细胞的细胞核体积如何变化？|体积变大。|
+|衰老细胞的细胞核的核膜如何变化？|核膜内折。 |
+|衰老细胞的细胞核的染色质如何变化？|染色质收缩。|
+|衰老细胞的细胞核的染色质变化对细胞核形态的影响是？|染色加深。|
+|衰老细胞的物质运输功能如何变化？|物质运输功能降低。|
+|衰老细胞的物质运输功能为何变化？|细胞膜通透性改变。|
+
+文本：
+  教育心理学是心理科学与教育科学相交叉的产物，它的产生是由于心理科学与教育科学发展的需要。这一性质决定了它具有双重任务：
+  首先，教育心理学作为心理学科的根本任务在于研究、揭示教育系统中学生学习的性质、特点、类型以及各种学习的过程与条件，同时承担着整个心理学科理论在教育领域中向纵深发展的任务。
+  其次，教育心理学作为一门教育学科的根本任务在于研究如何应用学生的学习及其规律去设计教育、改革教育体制、优化教育系统，以提高教育效能、加速人才培养的心理学原则。
+  这两个任务一个是理论建设任务，一个是实践指导任务。需要说明的是，这两个方面的任务是彼此统一、互相促进的。
+一套卡片：
+```
+复制到Excel后，导出为csv格式，导入ANKI。
+
