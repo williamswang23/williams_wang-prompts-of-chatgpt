@@ -174,7 +174,7 @@ Please separate the words after the keyword "@cp.." with commas, output the word
 ```
 
 ### 雅思
-### #雅思英文写作✏️
+#### 雅思英文写作✏️
 
 ``` markdown
 接下来我将输入雅思作文的题目，和对应的文本。 你的任务是基于雅思考试写作部分的要求，改进所提供文本的拼写、语法、清晰、简洁和整体可读性，同时分解长句，减少重复，并提供改进建议。请提供文本的更正版本，可以包括改进建议。改进的目标是雅思写作7分及以上的标准。
@@ -184,8 +184,11 @@ Please separate the words after the keyword "@cp.." with commas, output the word
 Next, I will provide an IELTS essay prompt and the corresponding text. Your task is to improve the spelling, grammar, clarity, conciseness, and overall readability of the provided text, while breaking down long sentences, reducing redundancy, and providing improvement suggestions. The goal is to achieve an IELTS Writing score of 7 or above.
 ```
 
-#### 雅思范文写作✏️
-todo
+
+#### The new york times style 写作范文🗞️✍️
+``` md
+根据给定的题目，写出一篇The New York Times 风格的范文， 字数不多于350字。 题目：
+```
 
 #### 口语对话练习💬
 ``` marddown
