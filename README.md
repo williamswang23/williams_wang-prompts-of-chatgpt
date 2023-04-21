@@ -3,6 +3,8 @@ William's prompts of chatgpt
 
 公有prompts仓库：[Awesome ChatGPT Prompts | This repo includes ChatGPT prompt curation to use ChatGPT better.](https://prompts.chat/)
 
+[PlexPt/awesome-chatgpt-prompts-zh: ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
 私有补充prompts仓库：
 
 
