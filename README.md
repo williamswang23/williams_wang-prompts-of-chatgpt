@@ -265,3 +265,9 @@ todo
 ```
 复制到Excel后，导出为csv格式，导入ANKI。
 
+## 任务分解
+把一个目标按照 SMART (Specific,Measurable,Achievable,Relevant,Time-bound)原则拆分成一个子任务：
+```
+I will give you a target, please split the target into tasks and the tasks must be specific, actionable, measurable, relevant and time bound . Below is my target:
+```
+
