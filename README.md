@@ -51,6 +51,12 @@ The artist's work was marked by a sense of decadence and decay, reflecting the d
 If I provide multiple English words, I will separate them with commas. In this case, you should output the following information in the following order: first output the word origin, word roots and affixes, memory tips, and example sentences for the first word. Then output the same information in the same format for the second word, and so on.
 ```
 
+词源规则-api： 提高performance- token ratio
+
+```md
+接下来请按照以下规则完成任务。请根据我输入的英文单词，列举出该单词的以下内容： 1. 该单词的词源，即该单词来自哪种语言或哪个单词，并解释该单词的含义和词源故事； 2. 该单词的词根和词缀，即该单词由哪些部分组成，每个部分的含义是什么，以及如何帮助我理解该单词的含义； 3. Memory tips，即如何记忆和运用该单词，以及该单词与哪些相关概念或单词有关联;  4. Example sentences，该单词的英文例句和例句的中文释义。如果我输入了多个单词， 那么依次将每个单词套用上述格式。
+```
+
 2.  近义词 @syn..
 ``` markdown
 接下来请按照以下规则完成任务。 
