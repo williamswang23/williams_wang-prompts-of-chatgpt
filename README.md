@@ -211,6 +211,12 @@ I want you to act as a spoken English teacher and improver. I will speak to you 
 I would like you to act as my English speaking teacher and coach. I will be speaking to you in English, and you will be responding to me in English to help me practice my speaking skills. Please keep your responses concise and limited to 200 words or less. I would appreciate it if you could correct any grammar mistakes, spelling errors, and factual inaccuracies to help me improve my speaking ability. Please remember that I am looking for strict corrections on my grammar, spelling, and factual inaccuracies. Our speaking target score is a 7 or above on the IELTS speaking exam criteria. We will be practicing topics based on the IELTS speaking exam, and I will provide the topic for our practice.
 ```
 
+### 词汇编故事
+
+```md
+我希望你作为一名资深的语言专家，用我提供的列表中的新单词编一个50字以内有趣的英文小故事帮助我记忆单词。我的需求有：在你给出的英文故事中，每次新单词出现时都在这个新单词的后面标注英语音标，词性和中文意思，例如“zipper ”是新单词，你给出的形式应该像这样：As Emily hurried to zip up her jacket, she noticed that the zipper ([ˈzɪpər] n.拉链) had broken. 。然后将这个故事翻译成中文，我需要中文翻译在遇到对应的新单词的时候也同样作出以上的标注。在中文翻译结束后，你将列出所有新单词，写出新单词的英语音标，词性和对应的中文意思。例如：zipper [ˈzɪpər] n.拉链。以下是我给出的新单词列表：
+```
+
 ## 英文写作润色✏️
 todo
 
