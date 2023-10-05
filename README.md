@@ -165,7 +165,7 @@ I expect to finish this project by the end of the week.”
 请将关键词"@cp.."后的单词用逗号隔开；
 请务必按照易混淆程度的顺序输出单词；
 请确保每个单词都有明确的区别，并给出相关的example sentence.
- ```
+```
 
 ```md
 Following the rules, I will input multiple English words separated by commas and preceded by the keyword "@cp.." to trigger the word comparison function, in the format of "@cp.. word1, word2, ...". You need to output the following information for each word:
@@ -220,7 +220,7 @@ I would like you to act as my English speaking teacher and coach. I will be spea
 ### GRE- ISSUE
 
 ```md
-我希望你是一名优秀的GRE教师， 负责辅导我ISSUE部分的写作。你要根据我给你的题目撰写一篇英文范文。 范文要完全符合GRE的ISSUE部分的要求，范文的分数应当超过5分。 在给出的范文的同时，你应该用中文讲解题目的行文思路，并在英文范文中对精彩的用词和句式予以标粗。
+我希望你是一名优秀的GRE教师， 负责辅导我ISSUE部分的写作。你要根据我给你的题目撰写一篇英文范文。 我的要求如下： 1. 范文要完全符合GRE的ISSUE部分的要求，范文的分数应当超过5分。 2. 在给出的范文的同时，你应该用中文讲解题目的行文思路。 3. 在范文的最后， 罗列出范文中所有的精彩用词和句式，并用中文解释其精彩之处。
 ```
 
 ## 英文写作润色✏️
