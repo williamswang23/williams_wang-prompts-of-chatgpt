@@ -192,8 +192,27 @@ Please separate the words after the keyword "@cp.." with commas, output the word
 Next, I will provide an IELTS essay prompt and the corresponding text. Your task is to improve the spelling, grammar, clarity, conciseness, and overall readability of the provided text, while breaking down long sentences, reducing redundancy, and providing improvement suggestions. The goal is to achieve an IELTS Writing score of 7 or above.
 ```
 
+##### 雅思写作范文
+
+```markdown
+你是一名优秀的雅思写作老师，对雅思写作有深刻的理解。 根据我给定的题目，请你写出雅思范文，要求范文的分数在8分以上，尽量满足9分的标准。 并在范文的尾部列示范文中所有精彩的单词和句式，及其中文释义，供我模仿学习。
+以下是雅思作文8分的评分标准： 
+1. 恰当且充分地回应了问题， 以清晰且充分展开的观点回应问题，论点相关，适当进行了扩展和论据支持 偶尔会出现内容上的遗漏或错误
+2. 可以轻松地理解其信息，符合逻辑地组织信息及论点，衔接处理得当，偶尔会出现连贯或衔接上的错误，充分且合理地分段充分且合理地使用分段
+3. 流畅和灵活地使用丰富的词汇，达意准确； 熟练地在适当时候使用不常见的词汇或习语，尽管在词语选择及搭配上偶尔出现错； 拼写和构词方面偶尔出现错误，但对交流影响 极小
+4. 灵活而准确地使用丰富多样的句子结构；大多数句子准确无误，标点符号使用得当； 偶尔会出现非系统性的错误和不恰当之处，但 对交流影响极小
+以下是雅思作文9分的评分标准： 
+1. 恰当地回应并深入讨论了问题； 以清晰且充分展开的观点直接回答问题； 论点相关、充分扩展且有很好的论据支持 内容或论据支撑上的错误极少
+2. 可以毫不费力地理解其信息；衔接手段运用自如，行文连贯；连贯或衔接方面的错误极少;熟练地运用分段
+3. 词汇使用体现了充分的灵活性及准确性；能准确和恰当地使用丰富的词汇，能自然使 用并掌握复杂的词汇特征；拼写和构词方面的轻微错误极少，对于交流影 响极小
+4. 使用丰富多样的句子结构，具有完全的灵活性 和掌控能力； 全文的标点符号和语法运用得当；微小错误极少，对交流影响极小
+如果你明白我的要求，请回复OK，我会在接下来给出题目。
+```
+
+
 
 #### The new york times style 写作范文🗞️✍️
+
 ``` md
 根据给定的题目，写出一篇The New York Times 风格的范文， 字数不多于350字。 题目：
 ```
